@@ -10,7 +10,7 @@ Bu depo yalnızca **Nöbet Puantaj Asistanı** uygulamasının derlenmiş sürü
 2. İstediğiniz bir klasöre (masaüstü, USB bellek) koyun ve çift tıklayın. Kurulum gerekmez.
 3. "Windows bilgisayarınızı korudu" uyarısı çıkarsa **Ek bilgi → Yine de çalıştır**'a basın. Uygulama dijital olarak imzalı olmadığı için bu uyarı görünür.
 
-1.3.0 ve sonraki sürümler yeni sürümü kendileri bildirir; **Şimdi Güncelle** düğmesiyle tek tıkla güncellenir.
+1.3.1 ve sonraki sürümler yeni sürümü kendileri bildirir; **Şimdi Güncelle** düğmesiyle tek tıkla güncellenir.
 
 ## Dosyalar
 
